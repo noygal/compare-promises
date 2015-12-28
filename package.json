@@ -1,0 +1,19 @@
+{
+  "name": "compare-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gal Noy",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "*",
+    "cli-table": "^0.3.1",
+    "co": "^4.6.0",
+    "mathjs": "*",
+    "promise": "*",
+    "q": "*"
+  }
+}
